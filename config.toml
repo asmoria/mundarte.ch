@@ -1,0 +1,9 @@
+baseurl = "http://www.mundarte.ch"
+languageCode = "de-ch"
+title = "Mundarte"
+
+[[menu.main]]
+    name = "Home"
+    weight = -100
+    identifier = "home"
+    url = "/"
