@@ -177,5 +177,7 @@ div.overlay h1, div.overlay h2, div.overlay h3  {
 .pl-home {
     width: 600px;
     height: 450px;
-    transform: translate(75px, 75px) rotate(-14deg);
+    transform: translate(0px, 75px) rotate(-14deg);
+    margin-left: auto;
+    margin-right: auto;
 }
