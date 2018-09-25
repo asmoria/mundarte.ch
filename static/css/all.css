@@ -1,0 +1,181 @@
+/* */
+
+body {
+    background-color:F1F7FA;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    /*font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Didact Gothic', sans-serif;
+    font-size:100%;
+    line-height:1.65;
+    font-weight:normal;
+}
+
+div#wrap {
+    margin: auto;
+    max-width: 1200px;
+    margin-top: 0;
+    padding: 0;
+}
+
+#head > h1 {
+    font-size: 68px;
+    text-align: center;
+    margin: 45px 0px 45px 110px;
+}
+
+#head > h1 > a {
+    color: #d7da2e;
+    text-decoration: none;
+    font-weight:lighter;
+    letter-spacing: 29px;
+}
+
+ul#mainmenu {
+    float: left;
+    left: 0px;
+    width: 200px;
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+    text-align: 
+    display: block;
+}
+
+ul#mainmenu > li {
+    padding: 0;
+    display: inline;
+/*    margin: 0px 5px 0px 0px;*/
+    float: left;
+}
+
+ul#mainmenu > li > a {
+    display: block;
+    width: 200px;
+    /*font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    text-decoration: none;
+    height: 50px;
+    /*padding-top: 3px;*/
+    color: #7A7F7F;
+    font-size: 15pt;
+    font-weight: normal;
+    letter-spacing: 2px
+}
+
+ul#mainmenu > li > a:hover {
+    background-color: EDF1F1;
+    text-decoration: none;
+    color: #2a2421;
+}
+
+/* d4cac5 */
+
+#content {
+    margin-top: 10px;
+    background-color: EDF1F1;
+    left: 100px;
+    /* color: #2A2421; */
+    color: rgba(60, 43, 43, 1);
+    padding: 30px;
+    /*font-family: Arial, Helvetica, sans-serif;*/
+    font-size: 13pt;
+    width: 900px;
+    float: right;
+}
+#content a {
+    color: rgba(60, 43, 43, 1)
+}
+
+
+#content h1, #content h2, #content h3, #content h4 {
+    position: relative;
+    left: -30px;
+    padding: 10px 10px 10px 30px;
+    background-color:5D9A9A;
+    display: table-cell;
+    color: #BADA55;
+    font-weight: 100;
+    clear: both;
+}
+
+#foot, #foot a {
+    font-size: 13px;
+    color: #d4cac5;
+}
+
+.slick-arrow {
+    display: none !important;
+}
+
+#carousel {
+    /*margin: 20px;*/
+    padding: 0px;
+    display: inline;
+}
+label {
+    font-weight: bold;
+}
+
+label, textarea, input {
+    display: block;
+}
+
+div.overlay {
+    margin: 30px 0px 30px 0px;
+    position: absolute;
+    z-index: 1000;
+    display: block;
+    width: 930px;
+}
+
+div.overlay-right {
+    margin-top: 565px;
+}
+
+div#logos {
+    float: right;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-bottom: 0px;
+    background-color: white;
+    margin-right: 12px;
+    height: 65px;
+}
+
+div#logos > img {
+    height: 60px;
+    margin-right: 5px;
+
+}
+
+div.overlay h1, div.overlay h2, div.overlay h3  {
+    /*display: block !important;*/
+    margin: 10px;
+}
+
+.gallery {
+	text-align: center;
+}
+
+.gallery > a {
+	padding: 5px;
+}
+
+.polaroid {
+    display:block;
+    padding: 35px 35px 45px 35px;
+    background-color: white;
+    margin-bottom: 150px;
+    font-size: 20pt;
+    text-align: center;
+    box-shadow: 10px 10px 5px 0px rgba(150, 150, 150,10);
+}
+
+.pl-home {
+    width: 600px;
+    height: 450px;
+    transform: translate(75px, 75px) rotate(-14deg);
+}
