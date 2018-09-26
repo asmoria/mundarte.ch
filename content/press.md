@@ -29,7 +29,7 @@ $('.carousel').slick({
 });
 </script>
 
-<h2>Die Bewohner von Mini Wohnig</h2>
+<h2>Die Bewohner</h2>
 <br/>
 <div class="gallery" style="text-align: center;">
   <a href="/images/molly.jpg" data-lightbox="duo">

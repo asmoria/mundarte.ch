@@ -60,8 +60,10 @@ ul#mainmenu > li > a {
     height: 50px;
     /*padding-top: 3px;*/
     color: #7A7F7F;
+        /*font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Courier', sans-serif;
     font-size: 15pt;
-    font-weight: normal;
+    font-weight: lighter;
     letter-spacing: 2px
 }
 
@@ -81,6 +83,8 @@ ul#mainmenu > li > a:hover {
     color: rgba(60, 43, 43, 1);
     padding: 30px;
     /*font-family: Arial, Helvetica, sans-serif;*/
+        /*font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Courier', sans-serif;
     font-weight:lighter;
     font-size: 12pt;
     width: 930px;

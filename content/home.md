@@ -14,7 +14,7 @@ type="index"
   Neues Stück
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i> 
-      </a> coming soon!<br>
+      </a>coming soon!<br>
   Premiere 01. März 2019 Planet 5
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -620px;left: 400px; ;width: 45px;"/>
