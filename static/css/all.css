@@ -22,9 +22,9 @@ div#wrap {
 }
 
 #head > h1 {
-    font-size: 68px;
+    font-size: 70px;
     text-align: center;
-    margin: 45px 0px 45px 110px;
+    margin: 10px 0px 20px 110px;
 }
 
 #head > h1 > a {
@@ -39,16 +39,16 @@ ul#mainmenu {
     left: 0px;
     width: 200px;
     padding: 0px;
-    margin: 0px;
+    margin: 5px;
     list-style-type: none;
     text-align: 
     display: block;
 }
 
 ul#mainmenu > li {
-    padding: 0;
+    padding: 5;
     display: inline;
-/*    margin: 0px 5px 0px 0px;*/
+/*    margin: 0px 10px 0px 0px;*/
     float: left;
 }
 
@@ -66,7 +66,7 @@ ul#mainmenu > li > a {
 }
 
 ul#mainmenu > li > a:hover {
-    background-color: EDF1F1;
+    background-color: #F8FCFE;
     text-decoration: none;
     color: #2a2421;
 }
@@ -75,14 +75,15 @@ ul#mainmenu > li > a:hover {
 
 #content {
     margin-top: 10px;
-    background-color: EDF1F1;
+    background-color: #F8FCFE;
     left: 100px;
     /* color: #2A2421; */
     color: rgba(60, 43, 43, 1);
     padding: 30px;
     /*font-family: Arial, Helvetica, sans-serif;*/
-    font-size: 13pt;
-    width: 900px;
+    font-weight:lighter;
+    font-size: 12pt;
+    width: 930px;
     float: right;
 }
 #content a {
@@ -94,10 +95,11 @@ ul#mainmenu > li > a:hover {
     position: relative;
     left: -30px;
     padding: 10px 10px 10px 30px;
-    background-color:5D9A9A;
+    background-color:EDF1F1;
     display: table-cell;
     color: #BADA55;
     font-weight: 100;
+    letter-spacing: 2px
     clear: both;
 }
 
@@ -168,16 +170,32 @@ div.overlay h1, div.overlay h2, div.overlay h3  {
     display:block;
     padding: 35px 35px 45px 35px;
     background-color: white;
-    margin-bottom: 150px;
-    font-size: 20pt;
+    margin-bottom: 25px;
+    font-size: 15pt;
     text-align: center;
     box-shadow: 10px 10px 5px 0px rgba(150, 150, 150,10);
 }
 
 .pl-home {
-    width: 600px;
-    height: 450px;
-    transform: translate(0px, 75px) rotate(-14deg);
+    width: 500px;
+    transform: translate(0px, 75px) rotate(-10deg);
     margin-left: auto;
     margin-right: auto;
+    margin-top: -55px
+}
+.pl-home img {
+    width: 500px;
+    height: 500px;
+}
+
+.pl-wir {
+    transform: translate(0px, 0px) rotate(-10deg);
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -30px
+}
+
+.pl-wir img {
+    width: 700px;
 }

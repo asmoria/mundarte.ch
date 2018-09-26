@@ -7,6 +7,7 @@ weight = 400
 <h2>Kontakt</h2>
 
 <font size="4">Interesse? Anregungen oder Fragen? </br>
+<a target="_blank" title="find us on Facebook" href="https://www.facebook.com/Mundarte-465771130541196/"> <img src="/images/fbbutt.png" style="float: right; margin: 15px;"> </a>
 Wir freuen uns auf ihre Kontaktaufnahme </br>
 <b>info[at]mundarte.ch </b></br>
 
@@ -22,9 +23,7 @@ Kontaktformular:
     <input type="submit" value="Abschicken">
 	<input type="hidden" name="_next" value="http://mundarte.ch/message-sent" />
 </form></p>
-<a target="_blank" title="find us on Facebook" href="https://www.facebook.com/Mundarte-465771130541196/"> <img src="/images/fbbutt.png" style="float: right; margin: 0px;"> </a>
 
-<img src="/images/gruppesw.jpg"/> </br>
 <FONT SIZE="2">© 2018 www.mundarte.ch
 </br>Texte & Inhalte by Alice Schönenberger </br>
 

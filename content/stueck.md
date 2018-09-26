@@ -1,14 +1,14 @@
 +++
-title = "Aktuelles Stück"
+title = "Mini Wohnig"
 [menu.main]
 weight = 100
 +++
 <center> 
-<img src="/images/flyerfront.jpg" width= 600px/></p>
+<img src="/images/flyerfront.jpg" width= 500px/></p>
 
 <span style="letter-spacing: 1px; font-size: 18px"> 
 Endlich, die eigenen vier Wände. Ein Traum wird wahr! Dank eines Tippfehlers landen vier Personen, die unterschiedlicher nicht sein könnten unverhofft in einer Wohngemeinschaft. Theo der ewige Student, Annika mit ihren ganz exakten Vorstellungen,  Eli mit ihren Flausen im Kopf und Molly das schüchterne Nesthäkchen. Als wäre dies nicht schon abenteuerlich genug, macht ihnen der Vermieter zusätzlich das Leben schwer. Ein mysteriöser Brief lässt das Haus erzittern. Und ach - die Katze möchte bitte auch gefüttert werden!
-Eine musikalische Mundart-Komödie eben. Ein Balanceakt zwischen Acapella & Theater, Yuccapalme & Ämtliplan. 
+Ein Balanceakt zwischen Acapella & Theater, Yuccapalme & Ämtliplan. 
 
 				
 Buch, Idee & Spiel: Mundarte <br>

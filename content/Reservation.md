@@ -15,3 +15,6 @@ weight = 200
 <tr> <td>DO</td> <td> 21.03.2019</td><td> SALLE DES HOSPITALIÈRES, PORRENTRUY, Jura </td></tr>
 <tr><td>FR</td><td> 22.03.2019 </td><td>SALLE DES HOSPITALIÈRES, PORRENTRUY, Jura </td></tr>
 </table>
+
+<center>
+<img src="/images/gruppesw.jpg"/> </br></center>

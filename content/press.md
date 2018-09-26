@@ -5,52 +5,44 @@ name = "Galerie"
 weight = 300
 +++
 
-<h1>Galerie</h1> <br/>
-<h2>Impressionen zu Heimwärts</h2>
+<h2>Impressionen Mini Wohnig</h2>
+<center>
+<div class="carousel"style="width: 800px; height: 600px;">
+  <img src="/images/figuren1.jpg"/>
+   <img src="/images/figuren4.png"/>
+   <img src="/images/figuren2.jpg"/>
+    <img src="/images/figuren3.jpg"/>
+  </div>
+  </center>
 
-<div class="gallery" style="text-align: center;">
-  <a href="/images/f&m4.jpg" data-lightbox="impressions">
-    <img src="/images/f&m4_thumb.jpg"/>
-  </a>
+<script>
+$('.carousel').slick({
+  slidesToShow: 1,
+  slidesToScroll: 1,
+  autoplay: true,
+  fade: true,
+  autoplaySpeed: 4500,
+  prevArrow: null,
+  nextArrow: null,
+  pauseOnHover: false,
+  speed: 2000,
+});
+</script>
 
-  <a href="/images/f&m1.jpg" data-lightbox="impressions">
-    <img src="/images/f&m1_thumb.jpg"/>
-  </a>
-
-  <a href="/images/f&m6.jpg" data-lightbox="impressions">
-    <img src="/images/f&m6_thumb.jpg"/>
-  </a>
-  <a href="/images/f&m8.jpg" data-lightbox="impressions">
-    <img src="/images/f&m8_thumb.jpg"/>
-  </a>
-<a href="/images/f&m9.jpg" data-lightbox="impressions">
-    <img src="/images/f&m9_thumb.jpg"/>
-  </a>
-<a href="/images/f&m10.jpg" data-lightbox="impressions">
-    <img src="/images/f&m10_thumb.jpg"/>
-  </a>
-
-</div>
-
-<h2>Das Duo Fink &amp; Meise</h2>
+<h2>Die Bewohner von Mini Wohnig</h2>
 <br/>
 <div class="gallery" style="text-align: center;">
-  <a href="/images/fink5.jpg" data-lightbox="duo">
-    <img src="/images/fink5_thumb.jpg"/>
+  <a href="/images/molly.jpg" data-lightbox="duo">
+    <img src="/images/molly_thumb.jpg"/>
   </a>
-  <a href="/images/fink7.jpg" data-lightbox="duo">
-    <img src="/images/fink7_thumb.jpg"/>
+  <a href="/images/theo.jpg" data-lightbox="duo">
+    <img src="/images/theo_thumb.jpg"/>
   </a>
-  <a href="/images/fink6.jpg" data-lightbox="duo">
-    <img src="/images/fink6_thumb.jpg"/>
+  <a href="/images/annika.jpg" data-lightbox="duo">
+    <img src="/images/annika_thumb.jpg"/>
   </a>
-  <a href="/images/finkundmeise3.jpg" data-lightbox="duo">
-    <img src="/images/finkundmeise3_thumb.jpg"/>
-  </a>
-  <a href="/images/f&m3.jpg" data-lightbox="duo">
-    <img src="/images/f&m3_thumb.jpg"/>
-  </a>
-  <a href="/images/finkundmeise2.jpg" data-lightbox="duo">
-    <img src="/images/finkundmeise2_thumb.jpg"/>
+  <a href="/images/eli.jpg" data-lightbox="duo">
+    <img src="/images/eli_thumb.jpg"/>
   </a>
 </div>
+<center>Von Links nach rechts: Molly, Theo, Annika und Eli. Klick aufs Bild um es zu vergrössern</center>
