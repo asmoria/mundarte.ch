@@ -171,6 +171,8 @@ div.overlay h1, div.overlay h2, div.overlay h3  {
     padding: 35px 35px 45px 35px;
     background-color: white;
     margin-bottom: 25px;
+        /*font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
+    font-family: 'Courier', sans-serif;
     font-size: 15pt;
     text-align: center;
     box-shadow: 10px 10px 5px 0px rgba(150, 150, 150,10);

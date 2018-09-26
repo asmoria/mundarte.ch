@@ -11,11 +11,11 @@ type="index"
   <img src="images/pol.gruppe1.jpg"/>
   <img src="images/pol.gruppe2.jpg"/>
   </div>
-  <font family: Courier New> coming soon: Neues Stück
+  Neues Stück
       <a style="color:#758484" href="/stueck">
-       <i>Mini Wohnig</i>
-      </a> <br>
-  Premiere 01. März 2019 Planet 5</font>
+       <i>Mini Wohnig</i> 
+      </a> coming soon!<br>
+  Premiere 01. März 2019 Planet 5
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -620px;left: 400px; ;width: 45px;"/>
 
