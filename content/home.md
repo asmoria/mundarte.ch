@@ -3,8 +3,18 @@ title = "Home"
 url = "/index.html"
 type="index"
 +++
+<div class="overlay overlay-left">
+<h2> Preview <i> Mini Wohnig </i> </h2> </br>
+<h4> <a style="color:#758484" href=https://www.kulturadventskalender.ch/>
+        &raquo; Kulturadventskalender Baar</a></h4></br>
+<h3>Di 4.12 18 Uhr</h3> 
+</div>
 
-
+<div class="overlay overlay-right">
+  <div id="logos" style="">
+    <img src="images/jura.gif"/>
+  </div>
+</div>
 <div class="polaroid pl-home">
   <div class="carousel">
   <img src="images/zügeln1.jpg"/>
