@@ -4,10 +4,10 @@ url = "/index.html"
 type="index"
 +++
 <div class="overlay overlay-left">
-<h2> Preview <i> Mini Wohnig </i> </h2> </br>
+<h2> <a style="color: 3FA0A0">Preview <i> Mini Wohnig </i> </a> </h2></br>
 <h4> <a style="color:#758484" href=https://www.kulturadventskalender.ch/>
         &raquo; Kulturadventskalender Baar</a></h4></br>
-<h3>Di 4.12 18 Uhr</h3> 
+<h3><a style="color: 3FA0A0">Di 4.12 18 Uhr</a></h3> 
 </div>
 
 <div class="overlay overlay-right">
