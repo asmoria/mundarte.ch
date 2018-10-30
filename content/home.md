@@ -3,11 +3,11 @@ title = "Home"
 url = "/index.html"
 type="index"
 +++
-<div class="overlay overlay-left">
+<div class="overlay overlay-left" >
 <h2> <a style="color: 3FA0A0">Preview <i> Mini Wohnig </i> </a> </h2></br>
 <h4> <a style="color:#758484" href=https://www.kulturadventskalender.ch/>
-        &raquo; Kulturadventskalender Baar</a></h4></br>
-<h3><a style="color: 3FA0A0">Di 4.12 18 Uhr</a></h3> 
+        &raquo; Kulturadventskalender</a></h4></br>
+<h4><a style="color: 3FA0A0">Di 4.12 18 Uhr Baar</a></h4> 
 </div>
 
 <div class="overlay overlay-right">
@@ -16,18 +16,14 @@ type="index"
   </div>
 </div>
 <div class="polaroid pl-home">
-  <div class="carousel">
-  <img src="images/zügeln1.jpg"/>
-  <img src="images/pol.gruppe1.jpg"/>
-  <img src="images/pol.gruppe2.jpg"/>
-  </div>
+<iframe width="510" height="315" src="https://www.youtube.com/embed/GxoPzt3IosM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   Neues Stück
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i> 
       </a>coming soon!<br>
   Premiere 01. März 2019 Planet 5
 </div>
-<img src="images/reiszweckemini.png" style="position: relative; top: -620px;left: 400px; ;width: 45px;"/>
+<img src="images/reiszweckemini.png" style="position: relative; top: -440px;left: 400px; ;width: 45px;"/>
 
 <script>
 $('.carousel').slick({
