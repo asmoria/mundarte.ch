@@ -5,14 +5,19 @@ type="index"
 +++
 <div class="overlay overlay-left" >
 <h2> <a style="color: 3FA0A0">Preview <i> Mini Wohnig </i> </a> </h2></br>
-<h4> <a style="color:#758484" href=https://www.kulturadventskalender.ch/>
+<h4> <a style="color:#758484" href=https://www.kulturadventskalender.ch/kulturt%C3%BCrchen/4-dez/>
         &raquo; Kulturadventskalender</a></h4></br>
 <h4><a style="color: 3FA0A0">Di 4.12 18 Uhr Baar</a></h4> 
 </div>
 
 <div class="overlay overlay-right">
   <div id="logos" style="">
+  <img src="images/uster.jpg"/>
+  <img src="images/oberland.jpg"/>
     <img src="images/jura.gif"/>
+    <img src="images/planet5.gif"/>
+  <img src="images/petzi.png"/>
+
   </div>
 </div>
 <div class="polaroid pl-home">
