@@ -24,6 +24,6 @@ Kontaktformular:
 	<input type="hidden" name="_next" value="http://mundarte.ch/message-sent" />
 </form></p>
 
-<FONT SIZE="2">© 2018 www.mundarte.ch
+<FONT SIZE="2">© 2019 www.mundarte.ch
 </br>Texte & Inhalte by Alice Schönenberger </br>
 

@@ -4,7 +4,7 @@ url = "/index.html"
 type="index"
 +++
 <div class="overlay overlay-left" >
-<h2> <a style="color: 3FA0A0">Neu: Trailer <i> Mini Wohnig </i> </a> </h2></br>
+<h2> <a style="color: 3FA0A0">Trailer <i> Mini Wohnig </i> </a> </h2></br>
 </div>
 
 <div class="overlay overlay-right">
@@ -20,10 +20,10 @@ type="index"
 </div>
 <div class="polaroid pl-home">
 <iframe width="510" height="315" src="https://www.youtube.com/embed/sxqm2Pagd4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  Neues Stück
+  Neues Theaterstück
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i> 
-      </a>coming soon!<br>
+      </a> coming soon!
   Premiere 01. März 2019 Planet 5
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -440px;left: 400px; ;width: 45px;"/>
