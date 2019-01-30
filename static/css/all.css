@@ -16,7 +16,7 @@ html {
 
 div#wrap {
     margin: auto;
-    max-width: 1160px;
+    max-width: 1230px;
     margin-top: 0;
     padding: 0;
 }
@@ -36,9 +36,9 @@ div#wrap {
 
 ul#mainmenu {
     float: left;
-    left: 0px;
-    width: 180px;
-    padding: 0px;
+    left: 5px;
+    width: 170px;
+    padding: 5px;
     margin: 5px;
     list-style-type: none;
     text-align: 
@@ -54,7 +54,7 @@ ul#mainmenu > li {
 
 ul#mainmenu > li > a {
     display: block;
-    width: 180px;
+    width: 170px;
     /*font-family:"Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;*/
     text-decoration: none;
     height: 60px;
@@ -87,7 +87,7 @@ ul#mainmenu > li > a:hover {
     font-family: 'Courier', sans-serif;
     font-weight:lighter;
     font-size: 12pt;
-    width: 910px;
+    width: 950px;
     float: right;
 }
 #content a {
@@ -145,16 +145,16 @@ div.overlay-right {
 div#logos {
     float: right;
     padding-top: 5px;
-    padding-left: 5px;
+    padding-left: -20px;
     padding-bottom: 0px;
     background-color: white;
-    margin-right: 0px;
-    height: 55px;
+    margin-right: -60px;
+    height: 60px;
 }
 
 div#logos > img {
     height: 50px;
-    margin-right: 0px;
+    margin-right: -5px;
 
 }
 

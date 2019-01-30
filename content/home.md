@@ -9,6 +9,7 @@ type="index"
 
 <div class="overlay overlay-right">
   <div id="logos" style="">
+  <img src="images/EGS.jpg"/>
   <img src="images/uster.jpg"/>
   <img src="images/oberland.jpg"/>
   <img src="images/migrosbunt.gif"/>
