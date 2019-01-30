@@ -16,7 +16,7 @@ html {
 
 div#wrap {
     margin: auto;
-    max-width: 1230px;
+    max-width: 1200px;
     margin-top: 0;
     padding: 0;
 }
@@ -87,7 +87,7 @@ ul#mainmenu > li > a:hover {
     font-family: 'Courier', sans-serif;
     font-weight:lighter;
     font-size: 12pt;
-    width: 950px;
+    width: 940px;
     float: right;
 }
 #content a {
@@ -153,7 +153,7 @@ div#logos {
 }
 
 div#logos > img {
-    height: 50px;
+    height: 49px;
     margin-right: -5px;
 
 }
