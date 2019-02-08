@@ -5,9 +5,7 @@ weight = 200
 +++
 
 <h2>Nächste Vorstellungen </h2>
-</br>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeptiiz144lRfWmhwTHEU_WFj8NH-u18seaRWidvu9wBR1Pzw/viewform?embedded=true" width="900" height="400" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
-</br>
+
 <table>
  <tr><td>DI</td><td> 04.12.2018  </td> <td></td><td><a style="color:#758484" href=https://www.kulturadventskalender.ch/>
         &raquo; Kulturadventskalender</a></td><td> 18 Uhr Baar</td> <td>(Ausschnitte vom Stück)</td>
@@ -26,3 +24,6 @@ weight = 200
 
 <center>
 <img src="/images/gruppesw.jpg"/> </br></center>
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeptiiz144lRfWmhwTHEU_WFj8NH-u18seaRWidvu9wBR1Pzw/viewform?embedded=true" width="900" height="400" frameborder="0" marginheight="0" marginwidth="0">Wird geladen...</iframe>
+</br>
