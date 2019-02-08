@@ -4,7 +4,8 @@ url = "/index.html"
 type="index"
 +++
 <div class="overlay overlay-left" >
-<h2> <a style="color: 3FA0A0">Trailer <i> Mini Wohnig </i> </a> </h2></br>
+<h2> <a style="color: 3FA0A0" href= "/Reservieren">
+        &raquo; Ticket reservieren </a> </h2></br>
 </div>
 
 <div class="overlay overlay-right">

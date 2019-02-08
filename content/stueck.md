@@ -25,6 +25,9 @@ Daniel Koller
 <p><h2> Premiere 01.03.2018/ <a style="color:#758484" href=https://www.planet5.ch/>
         &raquo; Planet 5 Zürich </a></h2> </p>
 
+
+<h2> <a style="color: 3FA0A0" href= "/Reservieren">
+        &raquo; Ticket reservieren </a> </h2></br>
 <p>
   <h3>
     <span style="color:#758484">
