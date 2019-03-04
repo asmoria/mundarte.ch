@@ -28,7 +28,7 @@ type="index"
       </a> Nächste Vorstellungen: 
   21./22. März </br><a style="color:#758484" href=http://cultureporrentruy.ch/> &raquo; Porrentruy, Jura  </a>
 </div>
-<img src="images/reiszweckemini.png" style="position: relative; top: -440px;left: 400px; ;width: 45px;"/>
+<img src="images/reiszweckemini.png" style="position: relative; top: -470px;left: 410px; ;width: 45px;"/>
 
 <script>
 $('.carousel').slick({
