@@ -22,8 +22,7 @@ Daniel Koller
 <a style="color:#758484" href="/flyermundarte.png"> &raquo; Download Flyer
       </a>
 
-<p><h2> Premiere 01.03.2018/ <a style="color:#758484" href=https://www.planet5.ch/>
-        &raquo; Planet 5 Zürich </a></h2> </p>
+<p><h2> Nächste Vorstellungen 21./22.März.2019/ <a style="color:#758484" href=http://cultureporrentruy.ch/> &raquo; Porrentruy, Jura </a></h2> </p>
 
 
 <h2> <a style="color: 3FA0A0" href= "/Reservieren">
