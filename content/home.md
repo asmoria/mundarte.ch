@@ -24,9 +24,9 @@ type="index"
 <iframe width="510" height="315" src="https://www.youtube.com/embed/sxqm2Pagd4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   Neues Theaterstück
       <a style="color:#758484" href="/stueck">
-       <i>Mini Wohnig</i> 
-      </a> coming soon!
-  Premiere 01. März 2019 Planet 5
+       <i>Mini Wohnig</i>  
+      </a> Nächste Vorstellungen: 
+  21./22. März </br><a style="color:#758484" href=http://cultureporrentruy.ch/> &raquo; Porrentruy, Jura  </a>
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -440px;left: 400px; ;width: 45px;"/>
 
