@@ -26,7 +26,7 @@ type="index"
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i>  
       </a> Nächste Vorstellungen: 
-  21./22. März </br><a style="color:#758484" href=http://cultureporrentruy.ch/> &raquo; Porrentruy, Jura  </a>
+  14. & 15. Juni </br><a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; Keller 62</a> Zürich 
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -470px;left: 410px; ;width: 45px;"/>
 

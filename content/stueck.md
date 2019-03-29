@@ -22,7 +22,7 @@ Daniel Koller
 <a style="color:#758484" href="/flyermundarte.png"> &raquo; Download Flyer
       </a>
 
-<p><h2> Nächste Vorstellungen 21./22.März.2019/ <a style="color:#758484" href=http://cultureporrentruy.ch/> &raquo; Porrentruy, Jura </a></h2> </p>
+<p><h2> Nächste Vorstellungen 14./15. Juni 2019/ <a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; Keller 62 Zürich </a></h2> </p>
 
 
 <h2> <a style="color: 3FA0A0" href= "/Reservieren">
