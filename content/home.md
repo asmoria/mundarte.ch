@@ -26,7 +26,7 @@ type="index"
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i>  
       </a> Nächste Vorstellungen: 
-  14. & 15. Juni </br><a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; Keller 62</a> Zürich 
+  14. & 15. Juni </br><a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; <i>Keller 62</i></a> Zürich 
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -470px;left: 410px; ;width: 45px;"/>
 
