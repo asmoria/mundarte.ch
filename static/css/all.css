@@ -138,23 +138,23 @@ div.overlay {
 }
 
 div.overlay-right {
-    margin-top: 520px;
+    margin-top: 590px;
     position: right; 
 }
 
 div#logos {
-    float: right;
+    float: left;
     padding-top: 5px;
-    padding-left: -20px;
+    padding-left: -10px;
     padding-bottom: 0px;
     background-color: white;
-    margin-right: -60px;
+    margin-right: -50px;
     height: 60px;
 }
 
 div#logos > img {
     height: 49px;
-    margin-right: -5px;
+    margin-right: -7px;
 
 }
 

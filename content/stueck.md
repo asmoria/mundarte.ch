@@ -4,7 +4,7 @@ title = "Mini Wohnig"
 weight = 100
 +++
 <center> 
-<img src="/images/flyer.png" width= 500px/></p>
+<img src="/images/frauenstreikflyer.png" width= 500px/></p>
 
 <span style="letter-spacing: 1px; font-size: 15px"> 
 Endlich, die eigenen vier Wände. Ein Traum wird wahr! Dank eines Tippfehlers landen vier Personen, die unterschiedlicher nicht sein könnten unverhofft in einer Wohngemeinschaft. Theo der ewige Student, Annika mit ihren ganz exakten Vorstellungen,  Eli mit ihren Flausen im Kopf und Molly das schüchterne Nesthäkchen. Als wäre dies nicht schon abenteuerlich genug, macht ihnen der Vermieter zusätzlich das Leben schwer. Ein mysteriöser Brief lässt das Haus erzittern. Und ach - die Katze möchte bitte auch gefüttert werden!
@@ -19,7 +19,7 @@ Daniel Koller
 </p>
 </center>
 
-<a style="color:#758484" href="/flyermundarte.png"> &raquo; Download Flyer
+<a style="color:#758484" href="/frauenstreikflyer.png"> &raquo; Download Flyer
       </a>
 
 <p><h2> Nächste Vorstellungen 14./15. Juni 2019/ <a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; Keller 62 Zürich </a></h2> </p>

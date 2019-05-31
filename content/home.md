@@ -26,9 +26,10 @@ type="index"
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i>  
       </a> Nächste Vorstellungen: 
-  14. & 15. Juni </br><a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; <i>Keller 62</i></a> Zürich 
+  14. & 15. Juni </br><a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; <i>Keller 62</i></a> Zürich <br>
+  FRAUENSTREIK! Alle Frauen 1 <i>gratis</i> Prosecco an der Bar!
 </div>
-<img src="images/reiszweckemini.png" style="position: relative; top: -470px;left: 410px; ;width: 45px;"/>
+<img src="images/reiszweckemini.png" style="position: relative; top: -550px;left: 410px; ;width: 45px;"/>
 
 <script>
 $('.carousel').slick({
