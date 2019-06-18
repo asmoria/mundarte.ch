@@ -22,7 +22,7 @@ Daniel Koller
 <a style="color:#758484" href="/frauenstreikflyer.png"> &raquo; Download Flyer
       </a>
 
-<p><h2> Nächste Vorstellungen 14./15. Juni 2019/ <a style="color:#758484" href=https://keller62.ch/spielplan/index.html> &raquo; Keller 62 Zürich </a></h2> </p>
+<p><h2> Nächste Vorstellungen 22. Juni 2019/ <a style="color:#758484" href=https://www.buehlerar.ch/news/veranstaltungen/veranstaltung/cal-jahr/2019/cal-monat/06/cal-tag/22/event/event/t/tx_cal_phpicalendar/e/mundarte-acapella-und-theater-mini-wohnig.html> &raquo; Bühler AR </a></h2> </p>
 
 
 <h2> <a style="color: 3FA0A0" href= "/Reservieren">
@@ -31,7 +31,7 @@ Daniel Koller
   <h3>
     <span style="color:#758484">
       Weitere Vorstellungen
-      <a style="color:#758484" href="/Reservation">
+      <a style="color:#758484" href="/Spielplan">
         &raquo; Spielplan
       </a>
     </span>

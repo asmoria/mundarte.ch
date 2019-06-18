@@ -20,7 +20,7 @@ weight = 200
         &raquo; Keller62</a> </td><td>20 Uhr Zürich</td>
 <tr><td>SA</td><td> 15.06.2019  </td> <td></td><td><a style="color:#758484" href=http://keller62.ch/>
         &raquo; Keller62</a></td><td>20 Uhr Zürich</td>
-<tr><td>SA</td><td> 22.06.2019  </td> <td></td><td>Dorffest </td><td>19 Uhr Bühler AR </td>
+<tr><td>SA</td><td> 22.06.2019  </td> <td></td><td><a style="color:#758484" href=https://www.buehlerar.ch/news/veranstaltungen/veranstaltung/cal-jahr/2019/cal-monat/06/cal-tag/22/event/event/t/tx_cal_phpicalendar/e/mundarte-acapella-und-theater-mini-wohnig.html/> &raquo; Dorffest</a> </td><td>19 Uhr Bühler AR </td>
 </table>
 
 <center>
