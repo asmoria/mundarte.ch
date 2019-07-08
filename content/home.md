@@ -25,11 +25,11 @@ type="index"
   Neues Theaterstück
       <a style="color:#758484" href="/stueck">
        <i>Mini Wohnig</i>  
-      </a> Nächste Vorstellungen: 
-  SA 22. Juni  Dorffest</br><a style="color:#758484" href=https://www.buehlerar.ch/news/veranstaltungen/veranstaltung/cal-jahr/2019/cal-monat/06/cal-tag/22/event/event/t/tx_cal_phpicalendar/e/mundarte-acapella-und-theater-mini-wohnig.html> &raquo; <i>Bühler AR</i></a> <br>
-  <i>Eintritt frei! Kollekte</i>
+      </a> Weitere Vorstellungen
+ coming soon<br>
+  
 </div>
-<img src="images/reiszweckemini.png" style="position: relative; top: -550px;left: 410px; ;width: 45px;"/>
+<img src="images/reiszweckemini.png" style="position: relative; top: -450px;left: 410px; ;width: 45px;"/>
 
 <script>
 $('.carousel').slick({
