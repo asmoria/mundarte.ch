@@ -7,11 +7,10 @@ weight = 300
 
 <h2>Impressionen Mini Wohnig</h2>
 <center>
-<div class="carousel"style="width: 800px; height: 600px;">
-  <img src="/images/figuren1.jpg"/>
-   <img src="/images/figuren4.png"/>
-   <img src="/images/figuren2.jpg"/>
-    <img src="/images/figuren3.jpg"/>
+<div class="carousel"style="width: 800px; height: 534px;">
+  <img src="/images/gruppehappy.jpg"/>
+   <img src="/images/gruppewütend.jpg"/>
+    <img src="/images/gruppetreppe.jpg"/>
   </div>
   </center>
 
@@ -35,8 +34,8 @@ $('.carousel').slick({
   <a href="/images/molly.jpg" data-lightbox="duo">
     <img src="/images/molly_thumb.jpg"/>
   </a>
-  <a href="/images/theo.jpg" data-lightbox="duo">
-    <img src="/images/theo_thumb.jpg"/>
+  <a href="/images/theoneu.jpeg" data-lightbox="duo">
+    <img src="/images/theoneu_thumb.jpeg"/>
   </a>
   <a href="/images/annika.jpg" data-lightbox="duo">
     <img src="/images/annika_thumb.jpg"/>

@@ -22,10 +22,9 @@ type="index"
 </div>
 <div class="polaroid pl-home">
 <iframe width="510" height="315" src="https://www.youtube.com/embed/sxqm2Pagd4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  Neues Theaterstück
-      <a style="color:#758484" href="/stueck">
-       <i>Mini Wohnig</i>  
-      </a> Weitere Vorstellungen
+       Acapellakomödie <a style="color:#758484" href="/stueck">
+      <i>Mini Wohnig</i>  
+      </a> en Tour 2020!
  coming soon<br>
   
 </div>

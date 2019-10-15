@@ -4,7 +4,7 @@ title = "Mini Wohnig"
 weight = 100
 +++
 <center> 
-<img src="/images/frauenstreikflyer.png" width= 500px/></p>
+<img src="/images/flyer.tour.png" width= 500px/></p>
 
 <span style="letter-spacing: 1px; font-size: 15px"> 
 Endlich, die eigenen vier Wände. Ein Traum wird wahr! Dank eines Tippfehlers landen vier Personen, die unterschiedlicher nicht sein könnten unverhofft in einer Wohngemeinschaft. Theo der ewige Student, Annika mit ihren ganz exakten Vorstellungen,  Eli mit ihren Flausen im Kopf und Molly das schüchterne Nesthäkchen. Als wäre dies nicht schon abenteuerlich genug, macht ihnen der Vermieter zusätzlich das Leben schwer. Ein mysteriöser Brief lässt das Haus erzittern. Und ach - die Katze möchte bitte auch gefüttert werden!
@@ -12,14 +12,14 @@ Ein Balanceakt zwischen Acapella & Theater, Yuccapalme & Ämtliplan.
 
 				
 Buch, Idee & Spiel: Mundarte <br>
-Stefan Schaberl, Alice Schönenberger, Alexandra Kraft & Linda Weidmann <br>
+Jonas Furrer, Alice Schönenberger, Alexandra Kraft & Linda Weidmann <br>
 Regie: 
 Daniel Koller
 </span>
 </p>
 </center>
 
-<a style="color:#758484" href="/frauenstreikflyer.png"> &raquo; Download Flyer
+<a style="color:#758484" href="/flyermundarte.png"> &raquo; Download Flyer
       </a>
 
 <p><h2> Nächste Vorstellungen coming soon</a></h2> </p>
