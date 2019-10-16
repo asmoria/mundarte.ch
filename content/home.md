@@ -21,10 +21,10 @@ type="index"
   </div>
 </div>
 <div class="polaroid pl-home">
-<iframe width="510" height="315" src="https://www.youtube.com/embed/sxqm2Pagd4k" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="510" height="315" src="https://www.youtube.com/embed/UJXCF7CkWLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        Acapellakomödie <a style="color:#758484" href="/stueck">
       <i>Mini Wohnig</i>  
-      </a> en Tour 2020!
+      </a> Tournee 2020 
  coming soon<br>
   
 </div>
