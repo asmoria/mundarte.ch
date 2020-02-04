@@ -83,7 +83,7 @@ weight = 200
   	<td>
   		<a style="color:#758484" href=http://www.alpentheater.ch//> &raquo; Alpentheater</a>
   	</td>
-  	<td> 20 Uhr Kiental</td>
+  	<td> 17 Uhr Kiental</td>
   	<td></td>
   </tr>
 
