@@ -71,7 +71,7 @@ weight = 200
   	<td> 11.06.2020  </td>
   	<td></td>
   	<td>
-  		<a style="color:#758484" href=http://www.teatrodallapiazza.ch//> &raquo; Teatro della piazza</a>
+  		<a style="color:#758484" href=http://www.teatrodallapiazza.ch//> &raquo; Teatro dalla piazza</a>
   	</td>
   	<td> 20 Uhr Dielsdorf</td>
   	<td></td>
@@ -83,7 +83,7 @@ weight = 200
   	<td>
   		<a style="color:#758484" href=http://www.alpentheater.ch//> &raquo; Alpentheater</a>
   	</td>
-  	<td> 20 Uhr Kieltal</td>
+  	<td> 20 Uhr Kiental</td>
   	<td></td>
   </tr>
 
