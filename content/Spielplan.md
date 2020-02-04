@@ -5,7 +5,91 @@ weight = 200
 +++
 
 <h2>Nächste Vorstellungen </h2>
+<table>
+  <tr>
+  	<td>FR</td>
+  	<td> 22.05.2020  </td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=https://www.teatropalino.com/> &raquo; Teatro Palino</a>
+    </td>
+    <td> 20 Uhr Baden</td>
+    <td></td>
+  </tr>
+  <tr>
+  	<td>SA</td>
+  	<td> 23.05.2020</td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=https://www.teatropalino.com/> &raquo; Teatro Palino</a>
+  	</td>
+  	<td>20 Uhr Baden</td>
+  	<td></td>
+  </tr>
+  <tr>
+  	<td>SO</td>
+  	<td> 24.05.2020  </td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=https://www.teatropalino.com/> &raquo; Teatro Palino</a>
+  	</td>
+  	<td> 20 Uhr Baden</td>
+  	<td></td>
+  </tr>
+   <tr>
+  	<td>DO</td>
+  	<td> 28.05.2020</td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=http://cowerk5.ch/Schreib-uns.php/> &raquo; Co_Werk 5</a>
+  	</td>
+  	<td>20 Uhr Altstetten Zürich</td>
+  	<td></td>
+  </tr>
+  <tr>
+  	<td>DO</td>
+  	<td> 04.06.2020  </td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=https://www.uster-agenda.ch/suche/mini-wohnig-uster_AJBbx9h/> &raquo; Kulturhaus Central</a>
+  	</td>
+  	<td> 20 Uhr Uster</td>
+  	<td></td>
+  </tr>
+  <tr>
+  	<td>SO</td>
+  	<td> 07.06.2020  </td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=https://www.theateralteoelethun.ch/index.php/> &raquo; Theater Alte Öle</a>
+  	</td>
+  	<td> 17 Uhr Thun</td>
+  	<td></td>
+  </tr>
+<tr>
+  	<td>DO</td>
+  	<td> 11.06.2020  </td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=http://www.teatrodallapiazza.ch//> &raquo; Teatro della piazza</a>
+  	</td>
+  	<td> 20 Uhr Dielsdorf</td>
+  	<td></td>
+  </tr>
+   <tr>
+  	<td>SA</td>
+  	<td> 20.06.2020  </td>
+  	<td></td>
+  	<td>
+  		<a style="color:#758484" href=http://www.alpentheater.ch//> &raquo; Alpentheater</a>
+  	</td>
+  	<td> 20 Uhr Kieltal</td>
+  	<td></td>
+  </tr>
 
+</table>
+
+<h2>Vergangene Vorstellungen</h2>
 <table>
  <tr><td>DI</td><td> 04.12.2018  </td> <td></td><td><a style="color:#758484" href=https://www.kulturadventskalender.ch/>
         &raquo; Kulturadventskalender</a></td><td> 18 Uhr Baar</td> <td>(Ausschnitte vom Stück)</td>
