@@ -61,7 +61,7 @@ weight = 200
   	<td> 07.06.2020  </td>
   	<td></td>
   	<td>
-  		<a style="color:#758484" href=https://www.theateralteoelethun.ch/index.php/> &raquo; Theater Alte Öle</a>
+  		<a style="color:#758484" href=https://www.theateralteoelethun.ch/> &raquo; Theater Alte Öle</a>
   	</td>
   	<td> 17 Uhr Thun</td>
   	<td></td>
