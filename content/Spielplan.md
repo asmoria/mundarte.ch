@@ -13,7 +13,7 @@ weight = 200
   	<td>
   		<a style="color:#758484" href=https://www.teatropalino.com/> &raquo; Teatro Palino</a>
     </td>
-    <td> 20 Uhr Baden</td>
+    <td> 20.30 Uhr Baden</td>
     <td></td>
   </tr>
   <tr>
@@ -23,7 +23,7 @@ weight = 200
   	<td>
   		<a style="color:#758484" href=https://www.teatropalino.com/> &raquo; Teatro Palino</a>
   	</td>
-  	<td>20 Uhr Baden</td>
+  	<td>20.30 Uhr Baden</td>
   	<td></td>
   </tr>
   <tr>
@@ -33,7 +33,7 @@ weight = 200
   	<td>
   		<a style="color:#758484" href=https://www.teatropalino.com/> &raquo; Teatro Palino</a>
   	</td>
-  	<td> 20 Uhr Baden</td>
+  	<td> 20.30 Uhr Baden</td>
   	<td></td>
   </tr>
    <tr>
