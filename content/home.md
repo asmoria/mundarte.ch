@@ -24,8 +24,8 @@ type="index"
 <iframe width="510" height="315" src="https://www.youtube.com/embed/UJXCF7CkWLc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        Acapellakomödie <a style="color:#758484" href="/stueck">
       <i>Mini Wohnig</i>  
-      </a> Tournee 2020 
- coming soon<br>
+      </a> Tournee 2020 abgesagt
+ <br>
   
 </div>
 <img src="images/reiszweckemini.png" style="position: relative; top: -450px;left: 410px; ;width: 45px;"/>
